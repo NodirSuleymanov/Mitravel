@@ -40,13 +40,14 @@
 }
 
 .logo {
-	font-weight: 800;
+	font-weight: 00;
 	font-size: 22px;
 	line-height: 1;
 	text-align: center;
 	letter-spacing: 2px;
 	color: var(--white-color);
 	text-transform: uppercase;
+	margin-right: 19px;
 }
 
 .btn-reset {
@@ -56,7 +57,7 @@
 }
 
 .burger {
-	width: 40px;
+	width: 48px;
 	height: 10px;
 	position: relative;
 }
